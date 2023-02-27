@@ -12,7 +12,7 @@ Treasure Chest           |
 :-------------------------:|
 ![](https://github.com/klazapp/Model-Animation/blob/main/TreasureChestAnim.gif)  |  
 Lever        | 
-![](https://github.com/klazapp/Model-Animation/blob/main/LeverAnim.png)  |  
+![](https://github.com/klazapp/Model-Animation/blob/main/LeverAnim.gif)  |  
 
 
 
