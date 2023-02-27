@@ -8,10 +8,13 @@ This repository showcases some of the basic models that have been designed and a
 ## Showcase
 
 
-Normal List<int2> Property             | 
+Treasure Chest           | 
 :-------------------------:|
 ![](https://github.com/klazapp/UNITY-GridAreaAttribute/blob/main/Assets/Art/GridAreaNormal.png)  |  
-This is a usual display of a List property in Unity |
+Lever        | 
+:-------------------------:|
+![](https://github.com/klazapp/UNITY-GridAreaAttribute/blob/main/Assets/Art/GridAreaNormal.png)  |  
+
 
 
 <br />
